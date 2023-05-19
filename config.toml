@@ -4,7 +4,7 @@ title = 'PHP Room at FrOSCon 2023'
 theme = 'ananke'
 
 [params]
-featured_image=images/elephants.jpg
+featured_image = "images/elephants.jpg"
 
 [[params.ananke_socials]]
 name = "twitter"
