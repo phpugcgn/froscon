@@ -2,3 +2,11 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'PHP Room at FrOSCon 2023'
 theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/phpugcgn"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/phpugcgn/froscon"
