@@ -4,7 +4,7 @@ date: 2023-06-02T09:38:44+02:00
 draft: false
 ---
 
-We invite everyone that wants to present a talk in the PHP room of FrOSCon this year 
+We invite everyone that wants to present a talk in the PHP room of [FrOSCon](https://froscon.org) on August 5th this year 
 to submit a talk in our call for papers. The submission deadline is the 30th of June 
 and we will make our acceptance decisions and send out notifications on July 3rd.
 You can submit your talk by registering on [frab](https://frab.froscon.org/) 
