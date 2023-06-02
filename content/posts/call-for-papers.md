@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers"
 date: 2023-06-02T09:38:44+02:00
-draft: true
+draft: false
 ---
 
 We invite everyone that wants to present a talk in the PHP room of FrOSCon this year 
