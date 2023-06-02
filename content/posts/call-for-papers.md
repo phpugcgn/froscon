@@ -9,7 +9,7 @@ to submit a talk in our call for papers. The submission deadline is the 30th of 
 and we will make our acceptance decisions and send out notifications on July 3rd.
 You can submit your talk by registering on [frab](https://frab.froscon.org/) 
 (make sure to check your spam folder for the registration confirmation) 
-and clicking on the "Participate" button for the PHP Conference.
+and clicking on the "Participate" button for the "PHP@FrOSCon" Conference.
 
 Please provide an accurate and brief description of the contents of your talk
 and make sure that your talk is no longer than 45 minutes, to ensure that there 
