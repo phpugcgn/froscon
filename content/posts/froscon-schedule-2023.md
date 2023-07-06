@@ -1,7 +1,6 @@
 ---
 title: "Froscon Schedule 2023"
 date: 2023-07-06T11:28:23+02:00
-draft: true
 ---
 
 The call for papers has closed, and we have decided which talks we will feature for the PHP subconference.
