@@ -12,11 +12,13 @@ The call for papers has closed, and we have decided which talks we will feature 
 - Room: **C116**
 
 ### Schedule:
-- 10:00 a.m. - **PHPUnit 10** by Sebastian Bergmann
-- 11:15 a.m. - **Code Complexity Simplified** by Mark Baker
-- 02:00 p.m. - **Multi-Tenancy - Yay or Nay?** by Simon Möller-Börkel
-- 03:15 p.m. - **The Cache Delusion** by Tobias Schlitt
-- 04:30 p.m. - **True Serverless or how to run PHP in the browser to document an open source projects** by soyuka
-- 05:45 p.m. - **Linux System Tools for PHP Performance Analysis and Debugging** by Volker Dusch
+- 10:00 - **PHPUnit 10** by Sebastian Bergmann
+- 11:15 - **Code Complexity Simplified** by Mark Baker
+- 14:00 - **Multi-Tenancy - Yay or Nay?** by Simon Möller-Börkel
+- 15:15 - **The Cache Delusion** by Tobias Schlitt
+- 16:30 - **True Serverless or how to run PHP in the browser to document an open source projects** by soyuka
+- 17:45 - **Linux System Tools for PHP Performance Analysis and Debugging** by Volker Dusch
+
+The detailed schedule with abstracts will appear on the FrOSCon website in the next weeks.
 
 Thanks to everyone that submitted a talk - we are looking forward to seeing you all on August 5th!
